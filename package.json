@@ -1,0 +1,22 @@
+{
+  "name": "js-constructors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhlu8/JS-Constructors.git"
+  },
+  "author": "Anh lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhlu8/JS-Constructors/issues"
+  },
+  "homepage": "https://github.com/anhlu8/JS-Constructors#readme",
+  "dependencies": {
+    "requirer": "0.0.4"
+  }
+}
